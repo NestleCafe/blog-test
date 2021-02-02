@@ -1,8 +1,12 @@
 # HTML
 
+
+
+1980年，物理学家蒂姆·伯纳斯-李在欧洲核子研究中心（CERN）在承包工程期间，为使CERN的研究人员使用并共享文档，他提出并创建原型系统ENQUIRE。1989年，伯纳斯-李在一份备忘录中提出一个基于互联网的超文本系统。
+
 #### 起手式
 
-![](C:\Users\Nestle\AppData\Roaming\Typora\typora-user-images\image-20210202160915927.png)
+![image-20210202160915927](https://i.loli.net/2021/02/02/7T8hJjCDvf1dop2.png)
 
 ~~~html
 <!DOCTYPE html>		//文档类型
@@ -22,7 +26,7 @@
 
 #### 章节标签
 
-h1~h6
+h1~h6 一级标题到六级标题
 
 section 节
 
@@ -30,7 +34,7 @@ section 节
 
 
 
-全局属性标签
+### 全局属性标签
 
 ##### class 分类 标记
 
@@ -51,6 +55,8 @@ section 节
 
 ​     js会覆盖style
 
+
+
 ##### contenteditable 
 
 使任何一个元素可以被编辑
@@ -59,7 +65,7 @@ section 节
 
 ##### hidden
 
-隐藏
+隐藏元素
 
 
 
@@ -87,7 +93,7 @@ overflow: hidden; 溢出省略
 
 
 
-![image-20210202170956812](C:\Users\Nestle\AppData\Roaming\Typora\typora-user-images\image-20210202170956812.png)
+![image-20210202170956812](https://i.loli.net/2021/02/02/dwrVUjufQneL5Gz.png)
 
 
 
@@ -103,17 +109,17 @@ overflow: hidden; 溢出省略
 
   User Agent就是浏览器
 
-  ![image-20210202171946873](C:\Users\Nestle\AppData\Roaming\Typora\typora-user-images\image-20210202171946873.png)
+  
 
-
+![image-20210202171946873](https://i.loli.net/2021/02/02/Hu2TqfBlYJjSacy.png)
 
 ##### CSS reset
 
 默认样式以及不符合需求，干掉默认样式
 
-![image-20210202173016377](C:\Users\Nestle\AppData\Roaming\Typora\typora-user-images\image-20210202173016377.png)
 
 
+![image-20210202173016377](https://i.loli.net/2021/02/02/Ip5jdMy2cwVA63H.png)
 
 #### 内容标签
 
@@ -141,7 +147,7 @@ overflow: hidden; 溢出省略
 
 通常与 code 一起用 不让空格回车不保留
 
-![image-20210202174520903](C:\Users\Nestle\AppData\Roaming\Typora\typora-user-images\image-20210202174520903.png)
+![image-20210202174520903](https://i.loli.net/2021/02/02/nVHNJBkA5tMclpe.png)
 
 **code** 展示代码
 
